@@ -20,3 +20,19 @@ header a {
   text-decoration: none;
   color: black;
 }
+
+.hero {
+  background-image: url(./images/hero.jpg);
+  background-size: cover;
+  height: 100vh;
+  color: white;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero a {
+  padding: 20px;
+}
