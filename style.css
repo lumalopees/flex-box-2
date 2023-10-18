@@ -26,6 +26,7 @@ header a {
   background-size: cover;
   height: 100vh;
   color: white;
+  text-align: center;
 
   display: flex;
   flex-direction: column;
@@ -35,4 +36,16 @@ header a {
 
 .hero a {
   padding: 20px;
+  background-color: rgba(255, 255, 255, 0.744);
+  border-radius: 8px;
+  text-decoration: none;
+  color: rgb(71, 62, 62);
+}
+
+.hero h1 {
+  font-size: 50px;
+}
+
+.hero h3 {
+  font-size: 25px;
 }
