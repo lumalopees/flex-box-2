@@ -40,12 +40,15 @@ header a {
   border-radius: 8px;
   text-decoration: none;
   color: rgb(71, 62, 62);
+  width: 180px;
 }
 
 .hero h1 {
   font-size: 50px;
+  margin-bottom: 15px;
 }
 
 .hero h3 {
   font-size: 25px;
+  margin-bottom: 15px;
 }
