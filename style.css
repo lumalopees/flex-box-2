@@ -55,21 +55,30 @@ header a {
 
 .grid {
   display: flex;
+  flex-wrap: wrap;
+}
+
+.grid div {
+  height: 300px;
+  width: 100%;
 }
 
 #imagem01 {
   background-image: url(./images/itacare-01.jpg);
-  flex-basis: 30%;
+  flex-basis: 35%;
 }
 
 #imagem02 {
   background-image: url(./images/itacare-02.jpg);
+  flex-basis: 65%;
 }
 
 #imagem03 {
-  background-image: url(./images/itacare-03.jpg)
+  background-image: url(./images/itacare-03.jpg);
+  flex-basis: 35%;
 }
 
 #imagem04 {
   background-image: url(./images/itacare-04.jpg);
+  flex-basis: 35%;
 }
