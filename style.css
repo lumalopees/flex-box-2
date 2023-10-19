@@ -67,21 +67,29 @@ header a {
 
 #imagem01 {
   background-image: url(./images/itacare-01.jpg);
+  background-size: cover;
+  background-position: center;
   flex-basis: 35%;
 }
 
 #imagem02 {
   background-image: url(./images/itacare-02.jpg);
+  background-size: cover;
+  background-position: center;
   flex-basis: 55%;
 }
 
 #imagem03 {
   background-image: url(./images/itacare-03.jpg);
+  background-size: cover;
+  background-position: center;
   flex-basis: 55%;
 }
 
 #imagem04 {
   background-image: url(./images/itacare-04.jpg);
+  background-size: cover;
+  background-position: center;
   flex-basis: 35%;
 }
 
