@@ -105,3 +105,30 @@ header a {
 .about-hotel h3 {
   font-size: 25px;
 }
+
+ul {
+  list-style: none;
+}
+
+.info-tab {
+  display: flex;
+  text-align: center;
+}
+
+.info {
+  background-color: rgb(48, 22, 19);
+  color: white;
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info-tab h3, i {
+  color:rgb(197, 207, 45)
+}
+
+hr {
+  width: 300px;
+}
