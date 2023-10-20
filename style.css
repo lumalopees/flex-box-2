@@ -123,8 +123,13 @@ hr {
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding: 100px;
 }
 
+.newsletter h3 {
+  font-size: 25px;
+  margin-bottom: 25px;
+}
 form {
   display: flex;
   justify-content: center;
@@ -139,6 +144,7 @@ form {
   border: #c3c63b solid 1px; 
   flex-basis: 70%;
   margin-right: 10px;
+  border-radius: 8px;
 }
 
 .newsletter button { 
