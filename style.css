@@ -136,11 +136,20 @@ ul {
 }
 
 hr {
-  width: 300px;
+  width: 500px;
+  margin-top: 10px;
+  margin-bottom: 40px;
 }
 
 .info h3 {
   font-size: 25px;
   margin-top: 25px;
   margin-bottom: 50px;
+}
+
+.newsletter {
+  color:rgb(197, 207, 45);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
