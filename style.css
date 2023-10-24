@@ -254,4 +254,12 @@ footer p {
   header {
     justify-content: center;
   }
+
+  .hero h1 {
+    font-size: 30px;
+  }
+
+  .hero h3 {
+    font-size: 15px;
+  }
 }
