@@ -83,28 +83,28 @@ a:hover {
   margin-bottom: 20px;
 }
 
-#imagem01 {
+.imagem01 {
   background-image: url('./images/itacare-01.jpg');
   background-size: cover;
   background-position: center;
   flex-basis: 35%;
 }
 
-#imagem02 {
+.imagem02 {
   background-image: url('./images/itacare-02.jpg');
   background-size: cover;
   background-position: center;
   flex-basis: 55%;
 }
 
-#imagem03 {
+.imagem03 {
   background-image: url('./images/itacare-03.jpg');
   background-size: cover;
   background-position: center;
   flex-basis: 55%;
 }
 
-#imagem04 {
+.imagem04 {
   background-image: url('./images/itacare-04.jpg');
   background-size: cover;
   background-position: center;
@@ -261,5 +261,9 @@ footer p {
 
   .hero h3 {
     font-size: 15px;
+  }
+
+  .grid div {
+    flex-basis: 100%;
   }
 }
