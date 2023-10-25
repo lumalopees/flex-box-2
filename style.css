@@ -274,4 +274,12 @@ footer p {
   form {
     flex-direction: column;
   }
+
+  form button {
+    margin-top: 20px;
+  }
+
+  i {
+    font-size: 50px;
+  }
 }
