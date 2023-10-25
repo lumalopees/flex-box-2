@@ -266,4 +266,12 @@ footer p {
   .grid div {
     flex-basis: 100%;
   }
+
+  .info-tab {
+    flex-direction: column;
+  }
+
+  form {
+    flex-direction: column;
+  }
 }
